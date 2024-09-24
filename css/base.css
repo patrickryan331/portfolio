@@ -46,6 +46,7 @@ p {
     color: var(--neutral-color);
     line-height: 1.5rem;
     font-size: 1.1rem;
+    text-align: center;
 }
 
 .text-label {

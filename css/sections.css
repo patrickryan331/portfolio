@@ -6,6 +6,7 @@
 
 .about-image-container img{
     width: 50%;
+    border-radius: 20px;
 }
 .about-image-container {
     width: 30%;
